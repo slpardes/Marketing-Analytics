@@ -1,0 +1,2 @@
+# Marketing-Analytics
+This course focused on developing marketing strategies and resource allocation decisions driven by quantitative analysis. Topics covered included market segmentation, market response models, customer profitability, product recommendation systems, churn predictions, media attribution models, and resource allocation. The course will draw on and extend students’ understanding of issues related to integrated marketing communications, pricing, digital marketing, and quantitative analysis.
